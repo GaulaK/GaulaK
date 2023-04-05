@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hello ! I am happy to see you here.
+Welcome to my page ! My name is Gauthier, I am becoming a fullstack developer  
+  
+It's still under construction... but I can show you some stuff !  
 
-<!--
-**GaulaK/GaulaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I use
+### WEB
+- HTML / CSS / SCSS
+- Javascript
+- React / React Native
+- Axios
+- Forest Admin
 
-Here are some ideas to get you started:
+### Database
+- NoSQL (MongoDB)
+- SQL (PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some bonuses
+- Python
+- Java
+- C
+
+## Contact :
+- Email : portefaixgauthier@gmail.com
+- LinkedIn : https://www.linkedin.com/in/gauthier-portefaix/
+
