@@ -1,26 +1,35 @@
-# 👋 Hello ! I am happy to see you here.
-Welcome to my page ! My name is Gauthier, I am becoming a fullstack developer  
-  
-It's still under construction... but I can show you some stuff !  
+# 👋 Bonjour ! Ravi de te voir ici.
+Bienvenue sur ma page ! Je m'appelle Gauthier, je suis en train de devenir un developpeur Fullstack React.
 
-## What I use
-### WEB
+# 🚨 Recherche de stage
+Je suis actuellement à la recherche d'un stage en développement web ! Je suis disponible dès maintenant pour une durée de 3 à 6 mois en région parisienne.
+
+## Mes Technos 
+### Front
 - HTML / CSS / SCSS
 - Javascript
 - React / React Native
+- Expo, for mobiles
 - Axios
-- Forest Admin
-
-### Database
+### Back
+- Node.js
+- Express
+- NorthFlank
+- Stripe
+- Cloudinary
+### Base de données
 - NoSQL (MongoDB)
 - SQL (PostgreSQL)
 
-### Some bonuses
+### Quelques bonus
 - Python
 - Java
 - C
 
-## Contact :
+### Work in progress
+- TypeScript
+
+## 📫 Contact :
 - Email : portefaixgauthier@gmail.com
 - LinkedIn : https://www.linkedin.com/in/gauthier-portefaix/
 
