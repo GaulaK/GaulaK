@@ -26,7 +26,3 @@ Bienvenue sur ma page ! Je m'appelle Gauthier, je suis en train de devenir un de
 ### Work in progress
 - TypeScript
 
-## 📫 Contact :
-- Email : portefaixgauthier@gmail.com
-- LinkedIn : https://www.linkedin.com/in/gauthier-portefaix/
-
